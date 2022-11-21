@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @isabellewood
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning SQL, Python and PowerBI
+- 💞️ I’m looking to collaborate on data analytic projects to enhance my skill set
+- 📫 You can reach me through email w.isabelle@hotmail.co.uk
